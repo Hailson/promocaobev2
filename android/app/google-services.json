@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500585847199",
+    "firebase_url": "https://promocaoboaesperanca.firebaseio.com",
+    "project_id": "promocaoboaesperanca",
+    "storage_bucket": "promocaoboaesperanca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500585847199:android:b2c858f41733f90c4405aa",
+        "android_client_info": {
+          "package_name": "com.sophiter.promocaoboaesperanca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500585847199-k299osoft7tbr2fgu1bmpfjopqd0n4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtuibF248UXEIMoh54if8i9_np0oF0TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500585847199-k299osoft7tbr2fgu1bmpfjopqd0n4va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
